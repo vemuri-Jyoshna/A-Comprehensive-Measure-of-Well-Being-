@@ -125,3 +125,6 @@ http://127.0.0.1:5000
 - Provide country-wise comparative analysis.
 
 ---
+OUTPUT : 
+
+IMG-20260709-WA0004(1).jpg
