@@ -126,6 +126,6 @@ http://127.0.0.1:5000
 
 ---
 ###Images
-![Project ScreenShot 1](images/HDI-1.jpg)
-![Project ScreenShot 2](images/HDI-2.jpg)
+![Project ScreenShot 1](images/HDI-1jpg)
+![Project ScreenShot 2](images/HDI-2jpg)
 
