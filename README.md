@@ -125,7 +125,9 @@ http://127.0.0.1:5000
 - Provide country-wise comparative analysis.
 
 ---
-###Images
-![Project ScreenShot 1](images/HDI-1jpg)
-![Project ScreenShot 2](images/HDI-2jpg)
+### Images
+
+![Project Screenshot 1](HDI-1jpg)
+
+![Project Screenshot 2](HDI-2jpg)
 
